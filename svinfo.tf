@@ -1,4 +1,4 @@
-provider "aws" {
+provider "AWS" {
   region = "ap-south-2"  # Updated AWS region
 }
 
